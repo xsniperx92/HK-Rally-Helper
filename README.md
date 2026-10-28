@@ -114,3 +114,55 @@ The interface isolates system management into structured modules to configure, e
 * **Pause / Resume Switch:** Instantly freezes or resumes execution mid-loop without losing your place in the workflow queue.
 * **Stop:** Safely terminates the background automation sequence.
 * **Terminal Log Feed:** Real-time feedback window displaying matching confidence scores (`score=1.000`), timestamps, cycle completions, and error handling logs.
+
+
+---
+
+## 💳 Get Your HK Rally Helper License
+
+Want to use HK Rally Helper v1.0?
+
+Contact me to request a license or ask about pricing.
+
+### 📩 Contact & License Requests
+
+- **Whatsapp** @HK_SaVaGe
+- **GitHub:** https://github.com/xsniperx92
+- **License Requests:** Contact me with your requested license duration.
+
+### 💰 Available Licenses
+
+| License Type | Duration |
+|---|---|
+| Monthly | 30 days |
+| Quarterly | 90 days |
+| Lifetime | No expiration date |
+
+Contact me for current pricing and availability.
+
+### 💵 Payment
+
+**PayPal:** paypal.me/hkharboutly
+
+Please contact me before paying to confirm the license type,
+price, and delivery instructions.
+
+### 🔑 License Delivery
+
+After payment is confirmed, I will generate and send your
+license key.
+
+1. Download HK Rally Helper v1.0.
+2. Open the application.
+3. Enter the license key I provide.
+4. Click Activate.
+
+### 🛠️ Support
+
+For technical support, questions, or license issues, contact me
+through the email listed above.
+
+---
+
+**HK Rally Helper v1.0**  
+Developed by xsniperx92.
