@@ -1,8 +1,8 @@
 # HK Rally Helper — Android Automation Control Panel
 
-![Python](https://shields.io)
-![OpenCV](https://shields.io)
-![Platform](https://shields.io)
+![Python]([https://shields.io](https://www.python.org/)
+![OpenCV]([https://shields.io](https://opencv.org/)
+![Platform](https://developer.android.com/tools/releases/platform-tools)
 
 
 
