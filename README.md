@@ -5,6 +5,7 @@
 ![Platform](https://shields.io)
 
 
+
 **HK Rally Helper** is a lightweight, high-performance desktop control panel engineered for computer vision automation across Android emulators, physical mobile devices, and Windows desktop apps. Powered by an OpenCV multi-scale image recognition pipeline and ADB (Android Debug Bridge), the software executes rapid, robust, and highly dynamic UI workflows.
 
 ---
